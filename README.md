@@ -7,13 +7,13 @@ Este repositório reúne **5 projetos desenvolvidos em React**, cada um localiza
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/leandromoreiranaves/hub-frontend.git
 ```
 
 ### 2. Acesse o diretório do repositório
 
 ```bash
-cd NOME-DO-REPOSITORIO
+cd hub-frontend
 ```
 
 ### 3. Escolha o projeto que deseja executar
